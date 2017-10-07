@@ -1,3 +1,5 @@
+require 'pry'
+
 class ProductsController < ActionController::Base
 
   def index
